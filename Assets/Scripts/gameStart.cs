@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+// Luka was here and made a commit
 public class gameStart : MonoBehaviour {
 	
 	private SpriteRenderer FadeIn;
